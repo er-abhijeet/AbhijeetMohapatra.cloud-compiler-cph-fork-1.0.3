@@ -16,11 +16,11 @@
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 				
 				<Property Id="Microsoft.VisualStudio.Code.SponsorLink" Value="https://rb.gy/5iiorz" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/abhijeetmohapatra/competitive-programming-helper.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/abhijeetmohapatra/competitive-programming-helper.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/abhijeetmohapatra/competitive-programming-helper.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/abhijeetmohapatra/competitive-programming-helper/issues" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/abhijeetmohapatra/competitive-programming-helper#readme" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3/issues" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3#readme" />
 				
 				
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
