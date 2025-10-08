@@ -1,11 +1,11 @@
 {
     "name": "cloud-compiler-cph-fork",
     "displayName": "Cloud Compiler (CPH Fork)",
-    "description": "A cloud-based competitive programming helper extension for VSCode. Forked from CPH, this version runs all code via a cloud API. Made by Abhijeet Mohapatra.",
+    "description": "A cloud-based competitive programming helper extension for VSCode. The Frontend is forked from CPH, this version runs all code via a cloud API in my backend. Made by Abhijeet Mohapatra.",
     "license": "GPL-3.0-or-later",
     "icon": "icon.png",
     "publisher": "AbhijeetMohapatra",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "author": {
         "name": "Abhijeet Mohapatra",
         "email": "awesome.abhi83@gmail.com",
@@ -21,7 +21,7 @@
         "*"
     ],
     "sponsor": {
-        "url": "https://rb.gy/5iiorz"
+        "url": "https://buymeacoffee.com/abhijeetmohapatra"
     },
     "main": "dist/extension.js",
     "contributes": {
@@ -452,6 +452,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/agrawal-d/competitive-programming-helper/"
+        "url": "https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3"
     }
 }

@@ -2,7 +2,7 @@
 
 **⚠️ WARNING: If you have the original CPH extension installed and enabled, please disable or uninstall it and restart VSCode before installing and using this extension!**
 
-A cloud-based competitive programming helper extension for VSCode. This extension is a fork of the original [Competitive Programming Helper (CPH)](https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3), but all code is compiled and run via a cloud API, making it platform-independent and easy to use without local setup.
+A cloud-based competitive programming helper extension for VSCode. This extension is a fork of the original [Competitive Programming Helper (CPH)](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper), but all code is compiled and run via a cloud API, making it platform-independent and easy to use without local setup.
 
 ---
 
@@ -36,7 +36,7 @@ A cloud-based competitive programming helper extension for VSCode. This extensio
 - TypeScript
 
 ## Credits
-This extension is a fork of [Competitive Programming Helper (CPH)](https://github.com/er-abhijeet/AbhijeetMohapatra.cloud-compiler-cph-fork-1.0.3) by Abhijeet Mohapatra. All core logic and UI are based on the original project. Full credit to the original author and contributors.
+This extension is a fork of [Competitive Programming Helper (CPH)](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) by Divyanshu Agrawal. Full credit to the original author and contributors.While the UI is based on the original project the  backend is developed by the author of this extension (Abhijeet Mohapatra).
 
 ## License
 This project is licensed under the GNU GPL v3, same as the original CPH.
