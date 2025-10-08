@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "icon": "icon.png",
     "publisher": "AbhijeetMohapatra",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": {
         "name": "Abhijeet Mohapatra",
         "email": "awesome.abhi83@gmail.com",
@@ -408,7 +408,7 @@
     "scripts": {
         "webpack-production": "webpack --mode production",
         "webpack-frontend-production": "webpack --mode production --config ./webpack.frontend.config.js",
-        "vscode:prepublish": "npm run webpack-frontend-production && npm run webpack-production",
+        "vscode:prepublish": "echo 'Skipping webpack build (recovered version)'",
         "prewebpack": "webpack --mode development --config ./webpack.frontend.config.js",
         "webpack": "webpack --mode development",
         "webpack-dev": "webpack --mode development --watch",
